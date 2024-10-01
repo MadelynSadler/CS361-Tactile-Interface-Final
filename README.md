@@ -1,13 +1,6 @@
 # Tactile Sensor Interface
-This repo contains all the code for the initial ONR tactile sensor interface.
+This repo is based on an early, simplified version of a user interface for an underwater robotic grasping mechanism using video feed and tactile sensing information.
+This version uses a microservice implemented seperately to check user input, as part of the CS361 Final Project Requirements.
 
-### File Writing
-#### Format:
-ParticipantID.csv:
-testNum,videoID,stopClicked(true/false),timeElapsed,confidence
-
-### Folder:
-Files will save in the "participant_data" folder
-
-### Video Access
-Videos are taken from a local folder in the direct parent directory called "onr_video_data". Changing this folder will throw errors in the code.
+## Limitations
+This project requires playing videos that are not uploaded on this repo, and must be downloaded seperately.
