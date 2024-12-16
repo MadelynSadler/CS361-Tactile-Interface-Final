@@ -1,12 +1,3 @@
-"""
-Comment key because I leave myelf lots of notes haha:
-TD:     Functionality that needs to be fleshed out
-QQ:     A question that needs to be asked about a line of code
-DEBUG:  A line of code, usually a print statement, using for debuging & to be deleted after the issue is resolved
-TEST:   A line or block of code that is not part of the final program and purely for test/debugging
-FIX(?): A line of code that might be causing problems or needs to be fixed
-##:     Indicates that line was built for CS 361
-"""
 
 import sys, csv, time, cv2
 
